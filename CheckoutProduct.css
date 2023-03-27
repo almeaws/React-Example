@@ -1,0 +1,39 @@
+.checkoutproduct{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.checkoutproduct__image > img{
+    max-height: 200px;
+    object-fit: contain;
+    margin-bottom: 15px;
+}
+
+.checkoutproduct__minipanel{
+    max-height: 20px;
+}
+
+.checkoutproduct__rating{
+    display: flex;
+}
+
+.checkoutproduct__info{
+    height: 100px;
+    margin-bottom: 15px;
+
+    
+}
+
+.checkoutproduct__price{
+    margin-top: 5px;
+}
+
+.checkoutproduct__buttons > button{
+    background: #f0c14b;
+    border:1px solid;
+    margin-top: 10px;
+    border-color: #f0c14b;
+    color:blue;
+}
+
